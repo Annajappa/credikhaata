@@ -39,7 +39,7 @@ export default function SignupPage() {
         />
         <div className="flex justify-center items-center h-30 mb-3">
         <Link to="/login" className="text-blue-600 underline text-lg">
-            Sign Up
+            Login
         </Link>
         </div>
         <button className="w-full bg-green-500 text-white p-2 rounded" onClick={gotoLogin}>Sign Up</button>
